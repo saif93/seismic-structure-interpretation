@@ -33,9 +33,10 @@ Ensure you have the following installed:
 
 - On Kaggle: Upload the notebook to a Kaggle notebook environment.
 
-Citation
+### Citation
+
 If you find this work useful, please consider citing our research paper:
 📌 
 
-License
+### License
 📜 This project is released under the MIT License.
